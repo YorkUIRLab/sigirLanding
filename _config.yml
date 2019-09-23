@@ -14,11 +14,11 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
+title: SIGIR 2020
+subtitle: "43rd International ACM SIGIR Conference on Research and Development in Information Retrieval "
 url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+baseurl: "/sigirLanding"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
