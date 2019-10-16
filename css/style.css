@@ -4,6 +4,11 @@
  *
  */
 
+ .list {
+   list-style: circle;
+   list-style-position: inside;
+ }
+
  .italic {
    font-style: italic;
  }
